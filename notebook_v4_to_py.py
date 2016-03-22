@@ -1,3 +1,4 @@
+#!/usr/local/bin/python
 """
    The script takes an .ipynb file (or all such files in the directory), and,
    if it doesn't already have a corresponding .py file, creates it from the

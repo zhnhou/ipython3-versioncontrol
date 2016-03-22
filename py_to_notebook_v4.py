@@ -1,3 +1,4 @@
+#!/usr/local/bin/python
 """
    This script converts a .py file to Ipython v4 notebook format. The .py file
    must be a result of an Ipython -> .py conversion using the notebook_v4_to_py.py
